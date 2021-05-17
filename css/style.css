@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+}
+.header h1{
+height: 100px;
+background-color: thistle;
+text-align: center;
+}
+.content{
+overflow: hidden;
+}
+.left_content h1{
+width: 20%;
+height: 500px;
+float: left;
+text-align: center;
+background-color: yellowgreen;
+}
+.middle_content{
+width: 60%;
+height: 500px;
+float: left;
+background-color: rgb(170, 128, 56);
+}
+.slection {
+    height: 10%;
+    background-color: grey;
+    text-align: center;
+}
+.header{
+height: 20%;
+text-align: center;
+background-color: hotpink;
+}
+.article{
+    height: 50%;
+    text-align: center;
+    background-color: lawngreen;
+}
+.content_footer{
+     height: 20%;
+    text-align: center;
+    background-color: mediumorchid;
+    text-align: center;
+}
+.right_content h1{
+width: 20%;
+height: 500px;
+float: left;
+text-align: center;
+background-color: fuchsia;
+}
+.footer{
+height: 100px;
+background-color: wheat;
+text-align: center;
+}
